@@ -66,7 +66,18 @@
         "label": "The Puppet Show Begins",
           "members": [
              {
-          "id": "http://dlib.indiana.edu/iiif_av/lunchroom_manners/canvas/1#t=24,100",
+          "id": "http://dlib.indiana.edu/iiif_av/lunchroom_manners/canvas/1#t=24,45",
+          "type": "Canvas"
+             }
+          ]
+        },
+        {
+        "id": "http://dlib.indiana.edu/iiif_av/lunchroom_manners/range/1",
+        "type": "Range",
+        "label": "Mr. Bungle's Hair is Messey",
+          "members": [
+             {
+          "id": "http://dlib.indiana.edu/iiif_av/lunchroom_manners/canvas/1#t=45,527",
           "type": "Canvas"
              }
           ]
