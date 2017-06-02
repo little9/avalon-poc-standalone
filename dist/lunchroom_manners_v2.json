@@ -1,5 +1,5 @@
 {
-  "id": "http://dlib.indiana.edu/iiif_av/canvas/1",
+  "id": "http://jamielittle.org/iiif_av/canvas/1",
   "type": "Manifest",
   "label": "Beginning Reponsibility: Lunchroom Manners [motion picture] Coronet Films",
   "description": "Lunchroom manners are taught by following a boy through his lunchroom experience",
@@ -44,40 +44,84 @@
               "language": "en"
             }
           ],
-          "target": "http://dlib.indiana.edu/iiif_av/canvas/1"
+          "target": "http://jamielittle.org/iiif_av/canvas/1"
         }
       ]
     }
   ],
   "structures": [
     {
-      "id": "http://dlib.indiana.edu/iiif_av/lunchroom_manners/range/0",
+      "id": "http://jamielittle.org/iiif_av/lunchroom_manners/range/0",
       "type": "Range",
       "viewingHint": "top",
       "label": "Lunchroom Manners",
       "members": [
         {
-          "id": "http://dlib.indiana.edu/iiif_av/lunchroom_manners/canvas/1#t=0,157",
+          "id": "http://jamielittle.org/iiif_av/lunchroom_manners/canvas/1#t=0,157",
           "type": "Canvas"
         },
         {
-        "id": "http://dlib.indiana.edu/iiif_av/lunchroom_manners/range/1",
+        "id": "http://jamielittle.org/iiif_av/lunchroom_manners/range/1",
         "type": "Range",
         "label": "The Puppet Show Begins",
           "members": [
              {
-          "id": "http://dlib.indiana.edu/iiif_av/lunchroom_manners/canvas/1#t=24,45",
+          "id": "http://jamielittle.org/iiif_av/lunchroom_manners/canvas/1#t=24,45",
           "type": "Canvas"
              }
           ]
         },
         {
-        "id": "http://dlib.indiana.edu/iiif_av/lunchroom_manners/range/1",
+        "id": "http://jamielittle.org/iiif_av/lunchroom_manners/range/2",
         "type": "Range",
         "label": "Mr. Bungle's Hair is Messey",
           "members": [
              {
-          "id": "http://dlib.indiana.edu/iiif_av/lunchroom_manners/canvas/1#t=45,527",
+          "id": "http://jamielittle.org/iiif_av/lunchroom_manners/canvas/1#t=45,59",
+          "type": "Canvas"
+             }
+          ]
+        },
+           {
+        "id": "http://jamielittle.org/iiif_av/lunchroom_manners/range/3",
+        "type": "Range",
+        "label": "Mr. Bungle's is Rude in Line",
+          "members": [
+             {
+          "id": "http://jamielittle.org/iiif_av/lunchroom_manners/canvas/1#t=59,72",
+          "type": "Canvas"
+             }
+          ]
+        },
+        {
+        "id": "http://dlib.indiana.edu/iiif_av/lunchroom_manners/range/4",
+        "type": "Range",
+        "label": "Mr. Bungle's is Rude in Line",
+          "members": [
+             {
+          "id": "http://dlib.indiana.edu/iiif_av/lunchroom_manners/canvas/1#t=72,75",
+          "type": "Canvas"
+             }
+          ]
+        },
+        {
+        "id": "http://jamielittle.org/iiif_av/lunchroom_manners/range/5",
+        "type": "Range",
+        "label": "Mr. Bungle has Difficulty at the Lunch Table",
+          "members": [
+             {
+          "id": "http://jamielittle.org/iiif_av/lunchroom_manners/canvas/1#t=75,77",
+          "type": "Canvas"
+             }
+          ]
+        },
+        {
+        "id": "http://jamielittle.org/iiif_av/lunchroom_manners/range/6",
+        "type": "Range",
+        "label": "The End of The Puppet Show",
+          "members": [
+             {
+          "id": "http://jamielittle.org/iiif_av/lunchroom_manners/canvas/1#t=77,527",
           "type": "Canvas"
              }
           ]
@@ -86,6 +130,3 @@
     }
   ]
 }
-      
-  
-
