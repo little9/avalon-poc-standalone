@@ -59,8 +59,22 @@
         {
           "id": "http://dlib.indiana.edu/iiif_av/lunchroom_manners/canvas/1#t=0,157",
           "type": "Canvas"
+        },
+        {
+        "id": "http://dlib.indiana.edu/iiif_av/lunchroom_manners/range/1",
+        "type": "Range",
+        "label": "The Puppet Show Begins",
+          "members": [
+             {
+          "id": "http://dlib.indiana.edu/iiif_av/lunchroom_manners/canvas/1#t=24,100",
+          "type": "Canvas"
+             }
+          ]
         }
       ]
     }
   ]
 }
+      
+  
+
